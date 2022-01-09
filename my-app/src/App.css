@@ -1,0 +1,35 @@
+.emp-logo{
+  height:70px;
+  width:70px;
+  display:inline;
+  float:left;
+  flex-direction:row;
+  padding-right:9%;
+}
+.cnt{
+  border-radius: 10px;
+  border-color: black;
+  margin:auto;
+  margin-top:200px;
+  margin-left:450px;
+  justify-content: center;
+  align-items: center;
+  position: flex;
+}
+.name{
+  display:block;
+  margin-top:0%;
+}
+.l1{
+  display: block;
+  color:gray;
+}
+.l2{
+  display: block;
+  color:gray;
+}
+.l3{
+  display: block;
+  color:gray;
+  font-size: 18px;
+}
